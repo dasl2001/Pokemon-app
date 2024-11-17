@@ -1,5 +1,5 @@
 # Individual-Assignment-Frontend-2-JavaScript-bibliotek-och-ramverk
-Individual Assignment for the course Frontend 2 - JavaScript - bibliotek och ramverk 
+Individual Assignment for the course Frontend 2 - JavaScript - bibliotek och ramverk
 
 Assignment:  
 Övningsuppgift - Pokemon Application
