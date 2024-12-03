@@ -36,7 +36,6 @@ function PokemonApplication() {
             </select>
             <button onClick={fetchPokemonDetails}>Get Pokemon Info</button>
           </div>
-      
           {pokemonDetails && <Pokemon details={pokemonDetails} />}
         </div>
       );      
