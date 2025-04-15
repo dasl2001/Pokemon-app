@@ -1,4 +1,3 @@
-# Individual-Assignment-Frontend-2-JavaScript-bibliotek-och-ramverk
 Individual assignment for the course Group Assignment for the course Frontend 2 – JavaScript-bibliotek och ramverk at Nackademin 
 
 Assignment:  
