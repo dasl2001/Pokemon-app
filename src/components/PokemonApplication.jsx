@@ -9,7 +9,7 @@ function PokemonApplication() {
     async function fetchPokemonList() {
       const response = await axios.get('https://pokeapi.co/api/v2/pokemon?limit=151');
       setPokemonList(response.data.results);
-    }
+    } 
     fetchPokemonList();
   }, []);
   const fetchPokemonDetails = async () => {
