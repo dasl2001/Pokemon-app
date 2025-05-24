@@ -12,7 +12,7 @@ function App() {
       ) : (
         <PokemonApplication />
       )}
-    </div>
+    </div> 
   );
 }
 export default App;
