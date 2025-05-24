@@ -1,7 +1,7 @@
 import React from 'react';
 function Pokemon({ details }) {
   const { name, sprites, types, weight, height } = details;
-  return (
+  return ( 
     <div style={{ marginTop: '20px', textAlign: 'center' }}>
       <h2>{name.toUpperCase()}</h2>
       <img src={sprites.front_default} alt={name} style={{ width: '150px', height: '150px' }} />
